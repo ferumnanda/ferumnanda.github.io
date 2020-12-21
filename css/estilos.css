@@ -1,0 +1,27 @@
+
+body{
+	color: white;
+	font-size: 16px;
+}
+.cian{
+	background-color: #B2EBF2;
+}
+.pink{
+	background-color: #FCE4EC;
+}
+.dliok{
+	width:400px;
+	height:300px;
+}
+.img-fluid{
+	width: 100%
+}
+.pinki{
+	color: #FF80AB;
+}
+.chiquito{
+	width: 50px;
+}
+.logo{
+	width: 800px;
+}
